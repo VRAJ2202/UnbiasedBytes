@@ -71,7 +71,9 @@ UnbiasedBytes/
 ### Prerequisites
 - Google Colab Pro (A100 GPU recommended, High RAM enabled)
 - Python 3.10+
-- HuggingFace account with access to [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) (accept the license)
+- HuggingFace account with access to gated models (accept both licenses):
+  - [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+  - [Gemma-2-9B-IT](https://huggingface.co/google/gemma-2-9b-it)
 
 ### Running the Pipeline
 
